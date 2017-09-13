@@ -3,10 +3,9 @@
   font-size: 16px
 }
 
-.copyright {
+p {
   color: gray;
-  text-align: left;
-  background-color: black;
+  text-align: right;
 }
 
 h2 , h3 {

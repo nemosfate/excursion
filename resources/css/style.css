@@ -3,10 +3,22 @@
   font-size: 16px
 }
 
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    align-content: center;
+    font-family: Verdana, sans-serif;
+}
+
+.copy {
+  text-align: right;
+  color: Gray;
+}
+
 p {
   color: gray;
-  background-color: gray;
-  text-align: right;
 }
 
 h2 , h3 {
@@ -16,15 +28,6 @@ h2 , h3 {
 
 .headers {
   color: white;
-}
-
-body {
-    background-color: black;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    align-content: center;
-    font-family: Verdana, sans-serif;
 }
 
 #mainheader {

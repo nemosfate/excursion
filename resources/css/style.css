@@ -6,6 +6,7 @@
 .copyright {
   color: gray;
   text-align: left;
+  background-color: black;
 }
 
 h2 , h3 {
@@ -34,4 +35,5 @@ body {
 #remembers {
   font-size: 21px;
   color: gray;
+  background-color: black;
 }

@@ -1,1 +1,20 @@
- 
+.align {
+  text-align: center;
+  align-content: center;
+  background-color: black;
+}
+
+.aqua {
+  color: aquamarine;
+  font-size: 16px
+}
+
+.headers {
+  color: white;
+}
+
+#mainheader {
+  font-weight: normal;
+  font-family: Verdana;
+  font-size: 50px;
+}

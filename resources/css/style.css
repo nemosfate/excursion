@@ -3,9 +3,9 @@
   font-size: 16px
 }
 
-#copyright {
-  text-align: right;
+.copyright {
   color: gray;
+  text-align: left;
 }
 
 h2 , h3 {
@@ -29,4 +29,9 @@ body {
 #mainheader {
   font-weight: normal;
   font-size: 50px;
+}
+
+#remembers {
+  font-size: 21px;
+  color: gray;
 }

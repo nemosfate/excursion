@@ -1,7 +1,28 @@
+#mainheader {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.headers {
+  color: white;
+}
+
+h2 , h3 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
 .aqua {
   color: aquamarine;
   font-size: 16px
 }
+
+#description {
+  font-size: 21px;
+  color: gray;
+  background-color: black;
+}
+
 body {
   background-color: black;
   text-align: center;
@@ -11,24 +32,4 @@ body {
 .copy {
   text-align: right !important;
   color: Gray;
-}
-
-h2 , h3 {
-  font-weight: 300;
-  font-size: 42px;
-}
-
-.headers {
-  color: white;
-}
-
-#mainheader {
-  font-weight: normal;
-  font-size: 50px;
-}
-
-#remembers {
-  font-size: 21px;
-  color: gray;
-  background-color: black;
 }
